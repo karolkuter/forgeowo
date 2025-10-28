@@ -1,0 +1,13 @@
+name = "BBS mod"
+filename = "bbs-1.5.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HNsMvuaQ/versions/ZKt3SvjU/bbs-1.5.7-1.20.1.jar"
+hash-format = "sha512"
+hash = "9b3e7770a41ea8da021c3a7e10778afc2ef14e9da5dc45106aed4cabb0aca4afbe4c2e717db1373e880a025c2a46d46c7fbed4e49eadbe0c8164516c2f965425"
+
+[update]
+[update.modrinth]
+mod-id = "HNsMvuaQ"
+version = "ZKt3SvjU"

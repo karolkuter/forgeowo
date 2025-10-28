@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
+metafile = true
+
+[[files]]
+file = "mods/bbs-mod.pw.toml"
+hash = "e3fe57d912d7bf78c648c5ebb194de8a7d89a3675ebfb98086d97bc60fdfee1d"
+metafile = true
+
+[[files]]
+file = "mods/bbs-server-sync-addon.pw.toml"
+hash = "96e7acbc16391494201700759114920706d16a9cda50fe94fea2472e861abbe4"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "bb4a4e8b00d292b5a6bfe14d57aa97eb6f3da7a04ece1eae7ac4ea4a5677db89"
+metafile = true
+
+[[files]]
+file = "mods/carry-on-extend.pw.toml"
+hash = "dc1f0178649ad77a502ce19f9e3b1cd364718227379c9e10d9f959eda4498659"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "f43859d81ac3d5d9550771ab542f4180b30cf5be7844dca86f268151389bc89c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "35e3ed00b7e0b2a3082ed35c677589ca762cd73e18858ad6ba7a4b6f7cdef441"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "d78e971517d18ba6628d707e5a4a379e68499893ce17e92e490e945b3c60e115"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery.pw.toml"
+hash = "16bd1aacc8879f8b4bfb9c973f758af6af37e3fc91c45f740f39e01b0dd4ad4d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "b684e31e68e4f0fe7a418afbdc2318a044d208ffdd9b19ea9d4f0ab918536efd"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "a8aace9988ad0726659d4eea06edf4fb350b7b1db5ffa9ab38770b06e570b7b0"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "b720172434e663a1e7d87e0b3b14c0fcbd0032bb14b4ed1885f5c4b32614994f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "94255c24694569e26337079e3ff81165b4e914ab427d4dab0e1d78b65325ba9f"
+metafile = true
